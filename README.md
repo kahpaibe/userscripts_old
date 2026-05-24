@@ -1,5 +1,7 @@
 # Userscripts
 
+**DISCLAIMER: legacy repository, the new one can be found at the original url [https://github.com/kahpaibe/userscripts](https://github.com/kahpaibe/userscripts). The original repository mistakenly credited an unrelated user.**
+
 Some useful userscripts to use with your favorite manager such as Violentmonkey or Tampermonkey.
 
 ## [Wayback URLs quick open](Wayback%20URLs%20quick%20open.user.js)
